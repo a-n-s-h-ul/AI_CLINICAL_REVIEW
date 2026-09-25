@@ -56,5 +56,5 @@ services:
 databases:
   - name: clinical-reviewer-db
     databaseName: clinical_reviewer
-    user: postgres
+
     plan: free
