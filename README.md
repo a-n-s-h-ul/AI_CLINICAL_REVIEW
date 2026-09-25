@@ -272,8 +272,7 @@ Refer to [`.env.example`](.env.example) for the complete list of configurable va
 > *Placeholder: Add application screenshots here demonstrating the multi-modal submission form, live report polling, contraindication alert banners, and collapsible clinical schema sections.*
 
 | Submission View | Report Detail & Safety Flags |
-|:---:|:---:|
-| `![Submission View Placeholder](docs/images/submit_view.png)` | `![Report Detail Placeholder](docs/images/report_detail.png)` |
+<img width="1912" height="908" alt="image" src="https://github.com/user-attachments/assets/ccd26b50-ec0a-4edc-8bed-5e7c0551603f" />
 
 | Reports History | Collapsible Clinical Accordions |
 |:---:|:---:|
