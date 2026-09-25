@@ -260,10 +260,10 @@ Refer to [`.env.example`](.env.example) for the complete list of configurable va
 
 ## 🌐 Deployed URLs
 
-- **Frontend Application (Vercel)**: `https://ai-clinical-reviewer.vercel.app` *(Placeholder)*
-- **Backend API (Render / Railway)**: `https://ai-clinical-reviewer-api.onrender.com` *(Placeholder)*
-- **API Documentation**: `https://ai-clinical-reviewer-api.onrender.com/api/v1/docs` *(Placeholder)*
-- **Liveness Health Check**: `https://ai-clinical-reviewer-api.onrender.com/health` *(Placeholder)*
+- **Frontend Application (Vercel)**: `https://ai-clinical-review.vercel.app`
+- **Backend API (Render)**: `https://ai-clinical-reviewer-backend.onrender.com`
+- **API Documentation**: `https://ai-clinical-reviewer-backend.onrender.com/api/v1/docs`
+- **Liveness Health Check**: `https://ai-clinical-reviewer-backend.onrender.com/health`
 
 ---
 
