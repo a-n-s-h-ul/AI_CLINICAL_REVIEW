@@ -55,7 +55,7 @@ class Settings(BaseSettings):
         if self.DATABASE_URL:
             # Handle postgres:// to postgresql:// dialect prefix conversion if needed
             if self.DATABASE_URL.startswith("postgres://"):
-                return self.DATABASE_URL.replace("postgres://", "postgresql://", 1)
+                return self.DATABASE_URL.replace("postgres://", "postgresql+psycopg2://", 1)
             return self.DATABASE_URL
 
         # Standard PostgreSQL URI for Docker / production
