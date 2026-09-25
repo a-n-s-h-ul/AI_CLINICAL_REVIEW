@@ -7,7 +7,7 @@ services:
     runtime: docker
     dockerContext: ./backend
     dockerfilePath: ./backend/Dockerfile
-    plan: standard
+    plan: free
     healthCheckPath: /health
     envVars:
       - key: PROJECT_NAME
