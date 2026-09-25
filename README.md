@@ -275,8 +275,7 @@ Refer to [`.env.example`](.env.example) for the complete list of configurable va
 <img width="1912" height="908" alt="image" src="https://github.com/user-attachments/assets/ccd26b50-ec0a-4edc-8bed-5e7c0551603f" />
 
 | Reports History | Collapsible Clinical Accordions |
-|:---:|:---:|
-| `![History View Placeholder](docs/images/history_view.png)` | `![Accordions Placeholder](docs/images/accordions.png)` |
+<img width="1917" height="888" alt="image" src="https://github.com/user-attachments/assets/b05e3153-7e51-4d3b-b62d-8e71878d24da" />
 
 ---
 
